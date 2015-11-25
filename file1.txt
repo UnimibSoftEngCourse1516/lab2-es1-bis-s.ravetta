@@ -3,3 +3,8 @@
 contenuto
 
 contenuto_other
+
+#file 3
+
+se non lo avessi ancora capito il contenuto dei file sta nei file stessi quini
+sarà ovviamente nel file3.txt
