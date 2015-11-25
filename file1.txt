@@ -3,3 +3,7 @@
 contenuto
 
 contenuto_other
+
+#file 2
+
+mi dispiace, il contenuto del file 2 è ovviamente nel file2.txt
